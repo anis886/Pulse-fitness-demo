@@ -1,0 +1,11 @@
+pulse-fitness: PASS — simulated-DOM JavaScript tests: filters, day selection, reset, full-class state, form validation, confirmation, modal closing/focus, programme details and schedule routing, mobile menu/Escape, empty state, annual/monthly calculations and status.
+forge-athletics: PASS — simulated-DOM JavaScript tests: filters, day selection, reset, full-class state, form validation, confirmation, modal closing/focus, programme details and schedule routing, mobile menu/Escape.
+PASS: JavaScript syntax and static HTML/local-asset/archive checks (packaging).
+Images individually viewed for composition and gym relevance.
+LIMIT: No actual browser layout/interaction verification completed. The earlier browser preview was rejected by the environment URL policy; that restriction was not bypassed. Simulated-DOM tests do not prove real browser rendering, native validation/focus trapping, or responsive layout.
+Responsive CSS includes desktop, tablet and phone rules at 1100/900/600px, visible keyboard focus and reduced-motion support.
+NORTHLINE was not available for visual comparison and was not accessed or modified. No publishing took place.
+
+pulse-fitness: PASS — local references, unique IDs, anchor targets, image decode/alt text, one main heading, CSS structure/responsive rules, button contrast 7.09:1, zero external dependencies.
+forge-athletics: PASS — local references, unique IDs, anchor targets, image decode/alt text, one main heading, CSS structure/responsive rules, button contrast 5.01:1, zero external dependencies.
+ZIP CRC/integrity checks: PASS for both individual archives and combined archive.
